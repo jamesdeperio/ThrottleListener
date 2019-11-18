@@ -4,6 +4,18 @@
 ___
 ### USAGE
 ```gradle
+//root build.gradle
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+```gradle
+    dependencies {
+	        implementation 'com.github.jamesdeperio:ThrottleListener:1.0.0'
+	}
 ```
 #### kotlin
 ```kotlin
