@@ -3,6 +3,8 @@
 - prevent bugs on multiple tap.
 ___
 ### USAGE
+```gradle
+```
 #### kotlin
 ```kotlin
 view.setOnThrottleClickListener { 
