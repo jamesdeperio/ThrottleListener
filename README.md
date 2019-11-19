@@ -1,3 +1,7 @@
+[![Release](https://jitpack.io/v/jamesdeperio/ThrottleListener.svg)](https://jitpack.io/#jamesdeperio/ThrottleListener)
+[![GitHub release](https://img.shields.io/github/release/jamesdeperio/ThrottleListener.svg)](https://GitHub.com/jamesdeperio/ThrottleListener/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/jamesdeperio/ThrottleListener.svg)](https://GitHub.com/jamesdeperio/ThrottleListener/tags/)
+
 ## ThrottleListener
 - avoid multiple execution of task.
 - prevent bugs on multiple tap.
